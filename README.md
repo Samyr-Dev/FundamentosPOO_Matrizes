@@ -27,7 +27,7 @@ O projeto contém exemplos práticos, exercícios e aplicações simples que aju
 |-------------|------------|
 | ☕ **Java** | Linguagem principal do projeto |
 | 🧩 **Paradigma POO** | Estrutura de desenvolvimento baseada em objetos |
-| 🖥️ **IDE** | Desenvolvido e testado no Eclipse/VSCode |
+| 🖥️ **IDE** | Desenvolvido e testado no IntelliJ |
 
 ---
 
@@ -59,12 +59,15 @@ Estruturar pequenos sistemas de forma modular e organizada.
 # 📝 Licença
 
 Este projeto está sob a licença MIT.
+
 Sinta-se à vontade para usar e adaptar para fins educacionais.
 
 # 👨‍💻 Autor
 
 Samyr Silva Tertuliano Deusdará
+
 Desenvolvedor em formação e entusiasta de soluções que unem tecnologia e aprendizado.
+
 https://www.linkedin.com/in/samyrtertuliano
 
 ⭐ Se este conteúdo te ajudou, não esqueça de deixar uma estrela no repositório!
