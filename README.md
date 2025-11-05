@@ -46,9 +46,25 @@ cd DominePOO_Matrizes_Java
 # Abrir o projeto na IDE de preferência (Eclipse, IntelliJ, VSCode)
 # Executar as classes contidas em src/
 
+# 📚 Aprendizado Esperado
 
-# Autor
+Com este projeto, o estudante será capaz de:
+
+Compreender e aplicar os pilares da POO em Java;
+
+Implementar lógicas com uso de matrizes e laços aninhados;
+
+Estruturar pequenos sistemas de forma modular e organizada.
+
+# 📝 Licença
+
+Este projeto está sob a licença MIT.
+Sinta-se à vontade para usar e adaptar para fins educacionais.
+
+# 👨‍💻 Autor
 
 Samyr Silva Tertuliano Deusdará
-
+Desenvolvedor em formação e entusiasta de soluções que unem tecnologia e aprendizado.
 https://www.linkedin.com/in/samyrtertuliano
+
+⭐ Se este conteúdo te ajudou, não esqueça de deixar uma estrela no repositório!
